@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:megaADK",
+    "port": "COM11",
+    "sketch": "mq135\\mq135.ino"
+}
